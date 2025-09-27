@@ -56,7 +56,7 @@ Users can draw a digit in the canvas, and the trained CNN predicts the digit ins
 #### Example:  
 | Drawn Digit | Model Prediction |
 |-------------|------------------|
-| ![digit1](samples/drawn_digit.png) | 3 |
-| ![digit2](samples/predicted_digit.png) | 8 |
+| ![digit1](drawn_digit.png) | 3 |
+| ![digit2](Drawn_Digit.png) | 8 |
 
 ---
